@@ -153,12 +153,12 @@
   <a href="https://github.com/GuruPrashanth2005/Jarvis-AI-Assistant">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=GuruPrashanth2005&repo=Jarvis-AI-Assistant&theme=dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=ffffff" />
   </a>
-  <a href="https://github.com/GuruPrashanth2005/__AI-Mentor-Chat-UI__">
+  <a href="https://github.com/GuruPrashanth2005/AI-Mentor-Chat-UI">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=GuruPrashanth2005&repo=__AI-Mentor-Chat-UI__&theme=dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=ffffff" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/GuruPrashanth2005/__Music-Player__">
+  <a href="https://github.com/GuruPrashanth2005/Music-Player">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=GuruPrashanth2005&repo=__Music-Player__&theme=dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=ffffff" />
   </a>
   <a href="https://github.com/GuruPrashanth2005/My-Portfolio">
