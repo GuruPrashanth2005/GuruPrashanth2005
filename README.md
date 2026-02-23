@@ -180,29 +180,6 @@
 
 ---
 
-
-
-## 💭 Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
----
-
-## 🎮 Hobbies & Interests
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🤖 AI Research-6e40c9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📊 Data Science-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🎮 Gaming-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📚 Reading Papers-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🎵 Music-E4405F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/✈️ Travelling-20BEFF?style=for-the-badge"/>
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
