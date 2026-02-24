@@ -3,12 +3,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:6e0080,100:0d0221&height=250&section=header&text=GURU%20PRASHANTH%20S&fontSize=55&fontColor=ffffff&fontAlignY=42&desc=✦%20AI%2FML%20Engineer%20%7C%20Student%20%7C%20Tech%20Enthusiast%20✦&descAlignY=62&descSize=17&animation=twinkling" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=BB86FC&center=true&vCenter=true&width=750&lines=👋+Hey+There!+I'm+Guru+Prashanth;🤖+AI+%2F+ML+Engineer+%7C+Student;🚀+Turning+Data+into+Intelligence;💡+Passionate+about+Deep+Learning" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=BB86FC&center=true&vCenter=true&width=750&lines=👋+Hey+There!+I'm+Guru+Prashanth;🤖+AI+%2F+ML+Engineer+%7C+Student;🚀+Turning+Data+into+Intelligence;💡+Passionate+about+Deep+Learning" alt="Typing SVG" /></a>
 
 <br/>
 
 > *"தெய்வத்தான் ஆகா தெனினும் முயற்சிதன் மெய்வருத்தக் கூலி தரும்."*
 > 
+> — **திருக்குறள் (Thirukkural)**
 
 <br/>
 
@@ -162,12 +163,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GuruPrashanth2005&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=ffffff&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=GuruPrashanth2005&theme=dark&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GuruPrashanth2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=GuruPrashanth2005&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuruPrashanth2005&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=ffffff&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuruPrashanth2005&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 ---
