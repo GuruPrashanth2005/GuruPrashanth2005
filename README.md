@@ -30,7 +30,7 @@
 <tr>
 <td width="55%" valign="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=FF6B00&vCenter=true&width=420&lines=👋+Hey!+I'm+Guru+Prashanth+S;🤖+AI+%2F+ML+Engineer+%26+Student;🔥+Turning+Data+into+Intelligence;🚀+Always+Learning+%26+Building" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&pause=1000&color=FF6B00&vCenter=true&width=420&lines=👋+Hey!+I'm+Guru+Prashanth+S;🤖+AI+%2F+ML+Engineer+%26+Student;🔥+Turning+Data+into+Intelligence;🚀+Always+Learning+%26+Building" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -163,12 +163,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GuruPrashanth2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=GuruPrashanth2005&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GuruPrashanth2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=GuruPrashanth2005&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuruPrashanth2005&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuruPrashanth2005&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 ---
@@ -220,5 +220,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:6e0080,100:0d0221&height=130&section=footer&animation=twinkling"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=⭐+Star+my+repos+if+you+like+my+work!;🚀+Let's+build+something+amazing+together!;💫+Made+with+❤️+by+Guru+Prashanth+S" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=⭐+Star+my+repos+if+you+like+my+work!;🚀+Let's+build+something+amazing+together!;💫+Made+with+❤️+by+Guru+Prashanth+S" alt="Typing SVG" /></a>
 </p>
