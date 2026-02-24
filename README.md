@@ -8,8 +8,6 @@
 <br/>
 
 > *"தெய்வத்தான் ஆகா தெனினும் முயற்சிதன் மெய்வருத்தக் கூலி தரும்."*
->
-> — **திருக்குறள் (Thirukkural)**
 
 <br/>
 
@@ -177,7 +175,6 @@
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuruPrashanth2005&theme=github_dark&utcOffset=5.5" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuruPrashanth2005&theme=github_dark" />
 </p>
 
 ---
