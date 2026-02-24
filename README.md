@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000d1a,25:003366,50:006688,75:008080,100:000d1a&height=280&section=header&text=GURU%20PRASHANTH%20S&fontSize=52&fontColor=e0f7fa&fontAlignY=42&desc=✦%20AI%2FML%20Engineer%20%7C%20Student%20%7C%20Tech%20Enthusiast%20✦&descAlignY=62&descSize=17&animation=twinkling&stroke=00bcd4&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000d1a,25:003366,50:006688,75:008080,100:000d1a&height=280&section=header&text=GURU%20PRASHANTH%20S&fontSize=52&fontColor=00FFC6&fontAlignY=42&desc=✦%20AI%2FML%20Engineer%20%7C%20Student%20%7C%20Tech%20Enthusiast%20✦&descAlignY=62&descSize=17&animation=twinkling"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00BCD4&center=true&vCenter=true&width=750&lines=👋+Hey+There!+I'm+Guru+Prashanth;🤖+AI+%2F+ML+Engineer+%7C+Student;🚀+Turning+Data+into+Intelligence;💡+Passionate+about+Deep+Learning" alt="Typing SVG" /></a>
 
