@@ -1,21 +1,23 @@
 <!-- Header -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:6e0080,100:0d0221&height=250&section=header&text=GURU%20PRASHANTH%20S&fontSize=55&fontColor=ffffff&fontAlignY=42&desc=✦%20AI%2FML%20Engineer%20%7C%20Student%20%7C%20Tech%20Enthusiast%20✦&descAlignY=62&descSize=17&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000d1a,25:003366,50:006688,75:008080,100:000d1a&height=280&section=header&text=GURU%20PRASHANTH%20S&fontSize=52&fontColor=e0f7fa&fontAlignY=42&desc=✦%20AI%2FML%20Engineer%20%7C%20Student%20%7C%20Tech%20Enthusiast%20✦&descAlignY=62&descSize=17&animation=twinkling&stroke=00bcd4&strokeWidth=2" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=BB86FC&center=true&vCenter=true&width=750&lines=👋+Hey+There!+I'm+Guru+Prashanth;🤖+AI+%2F+ML+Engineer+%7C+Student;🚀+Turning+Data+into+Intelligence;💡+Passionate+about+Deep+Learning" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00BCD4&center=true&vCenter=true&width=750&lines=👋+Hey+There!+I'm+Guru+Prashanth;🤖+AI+%2F+ML+Engineer+%7C+Student;🚀+Turning+Data+into+Intelligence;💡+Passionate+about+Deep+Learning" alt="Typing SVG" /></a>
 
 <br/>
 
 > *"தெய்வத்தான் ஆகா தெனினும் முயற்சிதன் மெய்வருத்தக் கூலி தரும்."*
+>
+> — **திருக்குறள் (Thirukkural)**
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=GuruPrashanth2005&label=Profile+Views&color=9400D3&style=flat-square&labelColor=0d0221" />
+<img src="https://komarev.com/ghpvc/?username=GuruPrashanth2005&label=Profile+Views&color=008080&style=flat-square&labelColor=000d1a" />
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20To%20Work-9400D3?style=flat-square&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/Open%20To%20Work-008080?style=flat-square&labelColor=000d1a" />
 &nbsp;
-<img src="https://img.shields.io/badge/AI%2FML%20Engineer-6e0080?style=flat-square&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/AI%2FML%20Engineer-006688?style=flat-square&labelColor=000d1a" />
 
 </div>
 
@@ -175,6 +177,7 @@
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuruPrashanth2005&theme=github_dark&utcOffset=5.5" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuruPrashanth2005&theme=github_dark" />
 </p>
 
 ---
@@ -223,8 +226,8 @@
 ---
 
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:6e0080,100:0d0221&height=130&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000d1a,25:003366,50:006688,75:008080,100:000d1a&height=130&section=footer&animation=twinkling"/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=⭐+Star+my+repos+if+you+like+my+work!;🚀+Let's+build+something+amazing+together!;💫+Made+with+❤️+by+Guru+Prashanth+S" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=1000&color=00BCD4&center=true&vCenter=true&width=600&lines=⭐+Star+my+repos+if+you+like+my+work!;🚀+Let's+build+something+amazing+together!;💫+Made+with+❤️+by+Guru+Prashanth+S" alt="Typing SVG" /></a>
 </p>
