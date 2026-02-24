@@ -164,18 +164,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuruPrashanth2005&theme=tokyonight" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app?user=GuruPrashanth2005&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuruPrashanth2005&theme=github_dark" />
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app?user=GuruPrashanth2005&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuruPrashanth2005&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuruPrashanth2005&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuruPrashanth2005&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuruPrashanth2005&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuruPrashanth2005&theme=tokyonight&utcOffset=5.5" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuruPrashanth2005&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuruPrashanth2005&theme=github_dark&utcOffset=5.5" />
 </p>
 
 ---
@@ -218,7 +217,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=GuruPrashanth2005&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&theme=tokyo-night&custom_title=Guru%20Prashanth's%20Contribution%20Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=GuruPrashanth2005&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&theme=github_dark&custom_title=Guru%20Prashanth's%20Contribution%20Graph" />
 </p>
 
 ---
