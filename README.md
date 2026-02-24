@@ -69,19 +69,22 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/GuruPrashanth2005" target="_blank">
+  <a href="https://www.linkedin.com/in/guruprashanths/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/GuruPrashanth2005" target="_blank">
+  <a href="https://x.com/guru_s52293" target="_blank">
     <img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/GuruPrashanth2005" target="_blank">
+  <a href="https://www.instagram.com/tej_gp0905" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/GuruPrashanth2005" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://guruprashanth2005.github.io/My-Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6e40c9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="mailto:guruprashanth2005@gmail.com" target="_blank">
+  <a href="mailto:gprashanth0905@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -163,12 +166,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GuruPrashanth2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=GuruPrashanth2005&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GuruPrashanth2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app?user=GuruPrashanth2005&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuruPrashanth2005&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuruPrashanth2005&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
