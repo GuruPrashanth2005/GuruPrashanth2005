@@ -166,12 +166,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GuruPrashanth2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuruPrashanth2005&theme=tokyonight" />
   <img width="49%" src="https://nirzak-streak-stats.vercel.app?user=GuruPrashanth2005&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuruPrashanth2005&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuruPrashanth2005&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuruPrashanth2005&theme=tokyonight" />
 </p>
 
 ---
