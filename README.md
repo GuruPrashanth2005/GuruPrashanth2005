@@ -183,7 +183,6 @@
   🎵 Music &nbsp;&nbsp;•&nbsp;&nbsp;
   ✈️ Travelling
 </p>
----
 
 ## 🐍 Contribution Snake
 
