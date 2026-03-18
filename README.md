@@ -161,28 +161,28 @@
 
 
 ## 🌱 Currently Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,fastapi" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LLMs-6e40c9?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Agentic%20AI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLOps-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Agentic_AI-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MLOps-black?style=flat-square"/>
 </p>
 
 ---
 
 ## 🎮 Hobbies & Interests
-
 <p align="center">
-  <img src="https://img.shields.io/badge/🤖_AI_Research-6e40c9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📊_Data_Science-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🎮_Gaming-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📚_Reading_Papers-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🎵_Music-E4405F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/✈️_Travelling-20BEFF?style=for-the-badge"/>
+  🤖 AI Research &nbsp;&nbsp;•&nbsp;&nbsp;
+  📊 Data Science &nbsp;&nbsp;•&nbsp;&nbsp;
+  🎮 Gaming &nbsp;&nbsp;•&nbsp;&nbsp;
+  📚 Reading Papers &nbsp;&nbsp;•&nbsp;&nbsp;
+  🎵 Music &nbsp;&nbsp;•&nbsp;&nbsp;
+  ✈️ Travelling
 </p>
-
 ---
 
 ## 🐍 Contribution Snake
