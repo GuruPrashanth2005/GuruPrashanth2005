@@ -138,10 +138,6 @@
 </p>
 
 ---
-
-
-## 📊 GitHub Stats
-
 ## 🔥 GitHub Streak
 
 <p align="center">
