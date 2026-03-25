@@ -142,20 +142,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuruPrashanth2005&theme=github_dark" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app?user=GuruPrashanth2005&theme=github_dark&hide_border=true" />
-</p>
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuruPrashanth2005&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuruPrashanth2005&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com?user=GuruPrashanth2005&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GuruPrashanth2005&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuruPrashanth2005&layout=compact" />
 </p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuruPrashanth2005&theme=github_dark&utcOffset=5.5" />
-</p>
-
 ---
 
 
