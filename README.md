@@ -145,7 +145,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=GuruPrashanth2005&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuruPrashanth2005&layout=compact" />
 </p>
----
 
 ## 🌱 Currently Learning
 <p align="center">
