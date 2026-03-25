@@ -151,8 +151,6 @@
 </p>
 ---
 
-
-
 ## 🌱 Currently Learning
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,fastapi" />
